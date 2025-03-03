@@ -1,2 +1,2 @@
 # ArborEngine
-This is a little project for building a Game engine taking inspiration from The Cherno playlist.
+This is a small project to build a game engine inspired by The Cherno's playlist.

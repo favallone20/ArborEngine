@@ -9,21 +9,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Core.h">
-      <Filter>src\ArborEngine</Filter>
-    </ClInclude>
-    <ClInclude Include="Application.h">
-      <Filter>src\ArborEngine</Filter>
-    </ClInclude>
     <ClInclude Include="Arbor_Engine.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="EntryPoint.h">
+    <ClInclude Include="src\ArborEngine\Application.h">
+      <Filter>src\ArborEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ArborEngine\Core.h">
+      <Filter>src\ArborEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ArborEngine\EntryPoint.h">
       <Filter>src\ArborEngine</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Application.cpp">
+    <ClCompile Include="src\ArborEngine\Application.cpp">
       <Filter>src\ArborEngine</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,8 +1,8 @@
 #pragma once
 
-// For use by ArborEngine applications
+// For use by ArborEngine applications (no inside ArborEngine)
 
-#include "Application.h"
+#include "src/ArborEngine/Application.h"
 
 // ---Entry Point---------------------	
-#include "EntryPoint.h"
+#include "src/ArborEngine/EntryPoint.h"
